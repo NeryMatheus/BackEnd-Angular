@@ -1,0 +1,7 @@
+input[type='number']{
+    width: 5em;
+    margin-left: 2px;
+}
+input[type='submit']{
+    margin-left: 3px;
+}
